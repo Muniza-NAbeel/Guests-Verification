@@ -1,2 +1,2 @@
-# Guests-Verification
-This is a Cli Based Guests Verification Program With using Typescript , Node.js &amp; inquirer .
+# Table Generator
+This is a Cli Based Table Generator Program With using Typescript , Node.js &amp; inquirer .
